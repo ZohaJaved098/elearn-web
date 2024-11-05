@@ -9,6 +9,3 @@ The site was developed to simplify access to valuable resources for learning com
 - **Testimonials**: Feedback and testimonials from users who have benefited from the platform.
 
 **Note**: All courses listed are available for free, and credits go to the original course providers. Moreover This is a MockUp website created for Internship at ProgrammersTech in July, 2024.
-
----
-
