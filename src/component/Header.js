@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router-dom';
 const Header = () => {
   const navigate = useNavigate();
   const handleRegisterClick = () => {
-    navigate('/register'); 
+    navigate('/courses'); 
   };
   return (
     <div className='header'>
@@ -22,11 +22,11 @@ const Header = () => {
           Explore topics like programming, data structures, AI, and cybersecurity <b>all for free</b>. Whether you're advancing your career or exploring new interests, E-Learn has you covered.
           <br /> <br />
           
-          <b className='center'>Ready to Get Started? Register Now!</b>
+          <b className='center'>Ready to Get Started? Let Explore!</b>
           <br /> <br />
-          Your journey in computer science begins here. Register today and discover endless possibilities with E-Learn!
+          Your journey in computer science begins here. Explore and discover endless possibilities with E-Learn!
         </p>
-        <button onClick={handleRegisterClick} >Register Now!</button>
+        <button onClick={handleRegisterClick} >Explore Now!</button>
       </div>
     </div>
   )
